@@ -1,4 +1,4 @@
-### Something i did someday that does something... IDFK DUDE I JUST CREATE THIS SH*T, DON'T ASK ME WTF DOES THIS F***ING CODE DO, OK.
+### Something i did someday that does something... IDFK DUDE I JUST CREATE THIS SHIT, DON'T ASK ME WTF DOES THIS FUCKING CODE DO, OK.
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
