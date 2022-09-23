@@ -4,7 +4,8 @@
 <sup>2</sup>
 h<sub>2</sub></sub>
 
-```print("YOU ARE AN IDIOT")
+```
+print("YOU ARE AN IDIOT")
 ```
 
 <!--
