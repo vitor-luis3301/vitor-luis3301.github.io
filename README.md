@@ -1,4 +1,7 @@
-### Something i did someday that does something... IDFK DUDE I JUST CREATE THIS SHIT, DON'T ASK ME WTF DOES THIS FUCKING CODE DO, OK.
+### Me make stuff with programing
+### Me want to show :)
+###
+### I do know how to say stuff properly, I'm not stupid, you are the stupid here you fuckind dumbass bitch! >:(
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
