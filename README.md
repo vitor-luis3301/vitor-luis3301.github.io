@@ -10,8 +10,6 @@ print("YOU ARE AN IDIOT")
 
 :smiley::smiley::smiley::smiley::smiley::smiley:
 
-|oi|aaaa|
-
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
