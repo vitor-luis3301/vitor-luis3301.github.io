@@ -1,8 +1,12 @@
 ### Me make stuff with programing
 ### Me want to show :)
-\n
-### \n
-### \n
+
+
+
+
+
+
+
 ### I do know how to say stuff properly, I'm not stupid, you are the stupid here you fuckind dumbass bitch! >:(
 
 <!--
