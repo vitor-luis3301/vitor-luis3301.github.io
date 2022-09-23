@@ -3,7 +3,7 @@
 <br /><br />
 <br /><br />
 <br /><br />
-### I do know how to say stuff properly, I'm not stupid, you are the stupid here you fuckind dumbass bitch! >:(
+### I do know how to say stuff properly, I'm not stupid, you are the stupid here you fucking dumbass bitch! >:(
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
