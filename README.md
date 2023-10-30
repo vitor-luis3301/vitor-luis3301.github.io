@@ -1,14 +1,9 @@
-### Me make stuff with programing
-### Me want to show you humans :)
+### I do stuff.
+
+### mostly in python.
 
 <sup>2</sup>
 h<sub>2</sub></sub>
-
-```
-print("YOU ARE AN IDIOT")
-```
-
-:smiley::smiley::smiley::smiley::smiley::smiley:
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
