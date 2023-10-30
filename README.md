@@ -1,8 +1,5 @@
 ## I do stuff.
-
-### mostly in python.
-
-* List item * List item
+mostly in python.
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
