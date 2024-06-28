@@ -3,8 +3,8 @@ I do stuff.
 
 here's the stuff I did:
 
-[Godot 2.5D Top-Down platformer](https://github.com/vitor-luis3301/godot-fake-z-axis)
-[Something I did with Claude 3.5 Sonnet ai](https://vitor-luis3301.github.io/two-player-tug-of-ar-game)
+1. [Godot 2.5D Top-Down platformer](https://github.com/vitor-luis3301/godot-fake-z-axis)
+2. [Something I did with Claude 3.5 Sonnet ai](https://vitor-luis3301.github.io/two-player-tug-of-ar-game)
 
 If i do moar stuff ill add it here
 🙂
