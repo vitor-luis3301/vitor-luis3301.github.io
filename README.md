@@ -1,5 +1,13 @@
-## I do stuff.
-mostly in python.
+# Hey
+I do stuff.
+
+here's the stuff I did:
+
+[Godot 2.5D Top-Down platformer](https://vitor-luis3301.github.io/)
+[Something I did with Claude 3.5 Sonnet ai](https://vitor-luis3301.github.io/two-player-tug-of-ar-game)
+
+If i do moar stuff ill add it here
+🙂
 
 <!--
 **vitor-luis3301/vitor-luis3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
