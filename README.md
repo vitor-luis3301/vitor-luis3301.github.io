@@ -1,10 +1,11 @@
 # Hey
 I do stuff.
 
-here's the stuff I did:
+here the stuff I did:
 
 1. [Godot 2.5D Top-Down platformer](https://github.com/vitor-luis3301/Godot-Top-Down-Platformer)
 2. [Something I did with Claude 3.5 Sonnet ai](https://vitor-luis3301.github.io/two-player-tug-of-ar-game)
+3. [A Doom-like Raycast engine](https://github.com/vitor-luis3301/Doomlike-engine-in-C)
 
 If i do moar stuff ill add it here
 🙂
